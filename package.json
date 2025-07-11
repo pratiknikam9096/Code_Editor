@@ -1,0 +1,20 @@
+{
+  "name": "code_editor",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/pratiknikam9096/Code_Editor#readme",
+  "bugs": {
+    "url": "https://github.com/pratiknikam9096/Code_Editor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratiknikam9096/Code_Editor.git"
+  },
+  "license": "MIT ",
+  "author": "Pratik Nikam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
